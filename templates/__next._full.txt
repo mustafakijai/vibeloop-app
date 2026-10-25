@@ -6,7 +6,7 @@ d:"/vibeloop-app/_next/static/chunks/3um51jcjkkvb5.js"
 e:"/vibeloop-app/_next/static/chunks/10ys6_hrmbeey.js"
 f:I[68027,["$a","$b","$c","$d","$e"],"default",1]
 :HL["/vibeloop-app/_next/static/chunks/3qmbw00i3ks4w.css","style"]
-2:T106f,
+2:T121a,
 @font-face { font-family: "Space Grotesk"; src: url("/vibeloop-app/fonts/SpaceGrotesk-Variable.woff2") format("woff2"); font-display: swap; font-weight: 300 700; }
 @font-face { font-family: "IBM Plex Sans"; src: url("/vibeloop-app/fonts/IBMPlexSans-400.woff2") format("woff2"); font-display: swap; font-weight: 400; }
 @font-face { font-family: "IBM Plex Sans"; src: url("/vibeloop-app/fonts/IBMPlexSans-500.woff2") format("woff2"); font-display: swap; font-weight: 500; }
@@ -31,6 +31,9 @@ f:I[68027,["$a","$b","$c","$d","$e"],"default",1]
 @font-face { font-family: "Unbounded"; src: url("/vibeloop-app/fonts/Unbounded-VariableFont_wght.ttf") format("truetype"); font-display: swap; font-weight: 300 900; }
 @font-face { font-family: "Syne"; src: url("/vibeloop-app/fonts/Syne-VariableFont_wght.ttf") format("truetype"); font-display: swap; font-weight: 300 900; }
 @font-face { font-family: "Rubik Dirt"; src: url("/vibeloop-app/fonts/RubikDirt-Regular.ttf") format("truetype"); font-display: swap; }
+@font-face { font-family: "Cormorant Garamond"; src: url("/vibeloop-app/fonts/CormorantGaramond-Variable.ttf") format("truetype"); font-display: swap; }
+@font-face { font-family: "Kaushan Script"; src: url("/vibeloop-app/fonts/KaushanScript-Regular.ttf") format("truetype"); font-display: swap; }
+@font-face { font-family: "Oswald"; src: url("/vibeloop-app/fonts/Oswald-Variable.ttf") format("truetype"); font-display: swap; }
 @font-face { font-family: "DM Serif Display"; src: url("/vibeloop-app/fonts/DMSerifDisplay-Regular.ttf") format("truetype"); font-display: swap; }
 @font-face { font-family: "Montserrat ExtraBold"; src: url("/vibeloop-app/fonts/Montserrat-ExtraBold.ttf") format("truetype"); font-display: swap; }
 @font-face { font-family: "Montserrat Black"; src: url("/vibeloop-app/fonts/Montserrat-Black.ttf") format("truetype"); font-display: swap; }
@@ -39,7 +42,7 @@ f:I[68027,["$a","$b","$c","$d","$e"],"default",1]
 6:X
 7:[["children",{"s":"__PAGE__","h":512,"d":{"r":"$L8","p":false,"v":null}}]]
 4:[["children",{"s":"templates","h":512,"d":{"r":"$L5","p":false,"v":"$6"},"c":"$Q7"}]]
-0:{"P":null,"c":["","templates",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/vibeloop-app/_next/static/chunks/3qmbw00i3ks4w.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/vibeloop-app/_next/static/chunks/42onvq6nokjl2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/vibeloop-app/_next/static/chunks/0p0mkqtq67oq0.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/vibeloop-app/_next/static/chunks/2jos72ud6mv-g.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/vibeloop-app/_next/static/chunks/3um51jcjkkvb5.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/vibeloop-app/_next/static/chunks/10ys6_hrmbeey.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}],"$L3"]}]]}],"p":false,"v":null},"c":"$Q4"},"h":{"r":"$L9","p":false,"v":null}},"m":"$undefined","G":["$f",["$L10"]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"qsBpGNyh6EV1zN8PTWXnA"}
+0:{"P":null,"c":["","templates",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/vibeloop-app/_next/static/chunks/3qmbw00i3ks4w.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/vibeloop-app/_next/static/chunks/42onvq6nokjl2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/vibeloop-app/_next/static/chunks/0p0mkqtq67oq0.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/vibeloop-app/_next/static/chunks/2jos72ud6mv-g.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/vibeloop-app/_next/static/chunks/3um51jcjkkvb5.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/vibeloop-app/_next/static/chunks/10ys6_hrmbeey.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}],"$L3"]}]]}],"p":false,"v":null},"c":"$Q4"},"h":{"r":"$L9","p":false,"v":null}},"m":"$undefined","G":["$f",["$L10"]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"V8zAfX7Erajh1-AlNxPLN"}
 11:I[34214,["$a","$b","$c","$d","$e"],"AppShell"]
 12:I[39756,["$a","$b","$c","$d","$e"],"default"]
 13:"/vibeloop-app/_next/static/chunks/1l_zl4bx6upgc.js"
