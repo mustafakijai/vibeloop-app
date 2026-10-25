@@ -1,4 +1,4 @@
 :HL["/vibeloop-app/_next/static/chunks/3qmbw00i3ks4w.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"templates","h":96,"c":"$Q2"}]]
-0:{"b":"V8zAfX7Erajh1-AlNxPLN","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"tG46pZDiR_HIAIAcMPetg","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
