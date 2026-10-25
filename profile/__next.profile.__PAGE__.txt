@@ -38,10 +38,10 @@
 9:C
 a:[["children",{"s":"__PAGE__","h":160,"d":{"r":"$Lb","p":"$@c","v":null,"s":"$5"}}]]
 6:[["children",{"s":"profile","h":96,"d":{"r":"$L7","p":"$@8","v":"$9","s":"$5"},"c":"$Qa"}]]
-0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/vibeloop-app/_next/static/chunks/3qmbw00i3ks4w.css","precedence":"next"}],["$","script","script-0",{"src":"/vibeloop-app/_next/static/chunks/42onvq6nokjl2.js","async":true}],["$","script","script-1",{"src":"/vibeloop-app/_next/static/chunks/0p0mkqtq67oq0.js","async":true}],["$","script","script-2",{"src":"/vibeloop-app/_next/static/chunks/3yfk3uz3is6dc.js","async":true}],["$","script","script-3",{"src":"/vibeloop-app/_next/static/chunks/3um51jcjkkvb5.js","async":true}],["$","script","script-4",{"src":"/vibeloop-app/_next/static/chunks/10ys6_hrmbeey.js","async":true}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}],"$L3"]}]]}],"p":"$@4","v":null,"s":"$5"},"c":"$Q6"},"h":{"r":"$Ld","p":"$@e","v":null,"s":"$5"}},"a":"$@f","u":"$@10","b":"C9ih-yZZQIfovEXoMu-9t"}
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/vibeloop-app/_next/static/chunks/3qmbw00i3ks4w.css","precedence":"next"}],["$","script","script-0",{"src":"/vibeloop-app/_next/static/chunks/42onvq6nokjl2.js","async":true}],["$","script","script-1",{"src":"/vibeloop-app/_next/static/chunks/0p0mkqtq67oq0.js","async":true}],["$","script","script-2",{"src":"/vibeloop-app/_next/static/chunks/0nezkz86hepts.js","async":true}],["$","script","script-3",{"src":"/vibeloop-app/_next/static/chunks/3um51jcjkkvb5.js","async":true}],["$","script","script-4",{"src":"/vibeloop-app/_next/static/chunks/10ys6_hrmbeey.js","async":true}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}],"$L3"]}]]}],"p":"$@4","v":null,"s":"$5"},"c":"$Q6"},"h":{"r":"$Ld","p":"$@e","v":null,"s":"$5"}},"a":"$@f","u":"$@10","b":"ANsPoDrcYnTFFmsQ7EsOd"}
 11:"/vibeloop-app/_next/static/chunks/42onvq6nokjl2.js"
 12:"/vibeloop-app/_next/static/chunks/0p0mkqtq67oq0.js"
-13:"/vibeloop-app/_next/static/chunks/3yfk3uz3is6dc.js"
+13:"/vibeloop-app/_next/static/chunks/0nezkz86hepts.js"
 14:"/vibeloop-app/_next/static/chunks/3um51jcjkkvb5.js"
 15:"/vibeloop-app/_next/static/chunks/10ys6_hrmbeey.js"
 16:I[34214,["$11","$12","$13","$14","$15"],"AppShell"]
