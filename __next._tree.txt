@@ -1,3 +1,3 @@
 :HL["/vibeloop-app/_next/static/chunks/3qmbw00i3ks4w.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"ANsPoDrcYnTFFmsQ7EsOd","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"KiIHpRCAAiMS6Wcra0XlL","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
